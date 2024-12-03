@@ -20,13 +20,20 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
 </p>
 <h2>Contact me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shreyalsinh-raj2107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyalsinh-raj2107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shreyalsinhraj2107@gmail.com" target="_blank">
+  <a href="mailto:shreyalsinhraj2107@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
   </a>
+  <a href="https://www.instagram.com/s_h_r_e_y_a_l__s_i_n_h__r_a_j_" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/Shreyalsinh_Raj" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="X (Twitter)"/>
+  </a>
 </p>
+
 <h2>Badges</h2>
 
 ### GitHub Stats
