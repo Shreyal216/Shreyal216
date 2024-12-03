@@ -51,7 +51,7 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
 - ![PHP](https://img.shields.io/badge/PHP-60%25-777BB4?style=flat-square)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=flat-square)
 - ![React](https://img.shields.io/badge/React-50%25-61DAFB?style=flat-square)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-40%25-47A248?style=flat-square)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-50%25-47A248?style=flat-square)
 
 ### Streak Stats
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyal216&theme=radical)
