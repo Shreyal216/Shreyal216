@@ -1,8 +1,8 @@
 # Hi 👋🏻 My name is Shreyalsinh Raj
 I am currently pursuing my Bachelor's Degree in Information Technology from DRS. Kiran & Pallavi Patel Global University.
 
-- 🌍  Currently living in India
-- ✉️  You can contact me at shreyalsinhraj2107@gmail.com
+- 🌍  Currently living in India  
+- ✉️  You can contact me at shreyalsinhraj2107@gmail.com  
 
 <h2>Skills</h2>
 <p align="left">
@@ -15,6 +15,8 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 <h2>Contact me</h2>
 <p align="left">
@@ -26,7 +28,6 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
   </a>
 </p>
 <h2>Badges</h2>
-
 
 ### GitHub Stats
 
@@ -42,6 +43,8 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
 - ![CSS](https://img.shields.io/badge/CSS-70%25-1572B6?style=flat-square)
 - ![PHP](https://img.shields.io/badge/PHP-60%25-777BB4?style=flat-square)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=flat-square)
+- ![React](https://img.shields.io/badge/React-50%25-61DAFB?style=flat-square)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-40%25-47A248?style=flat-square)
 
 ### Streak Stats
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyal216&theme=radical)
