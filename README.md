@@ -69,22 +69,19 @@ MongoDB       █████░░░░░ 50%<br>
 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyalsinh-raj2107">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shreyalsinhraj2107@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/shreyalsinhraj">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/>
+    <img src="https://img.shields.io/badge/Instagram-Creative-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://twitter.com/Shreyalsinh_Raj">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48"/>
+    <img src="https://img.shields.io/badge/X-Tech-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"/>
-</div>
 
 ✨ “Code. Learn. Improve. Repeat.” ✨
 
