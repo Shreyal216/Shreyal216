@@ -10,8 +10,6 @@ I enjoy building scalable, user-friendly applications, working in team-based pro
 
 💡 Career Goal: To work as a Full Stack / Software Developer in a growth-oriented organization.
 
-🚀 What I Bring to the Table (Recruiter Focused)
-
 ✅ Strong programming fundamentals
 ✅ Hands-on experience with frontend & backend technologies
 ✅ Familiar with real-world project workflows
@@ -19,41 +17,23 @@ I enjoy building scalable, user-friendly applications, working in team-based pro
 ✅ Continuous learner with a passion for technology
 
 🛠️ Technical Skills
-💻 Programming Languages
+💻 Programming Languages<br>
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> </p>
-🌐 Web Development
+🌐 Web Development<br>
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/> </p>
-⚙️ Frameworks, Databases & Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> </p>
-📊 Skill Proficiency (Quick View)
-C             ████████░░ 80%
-C++           ██████░░░░ 60%
-Python        ████████░░ 80%
-Java          ████████░░ 80%
-HTML          ████████░░ 80%
-CSS           ███████░░░ 70%
-PHP           ██████░░░░ 60%
-JavaScript    ████░░░░░░ 40%
-React         █████░░░░░ 50%
+⚙️ Frameworks, Databases & Tools<br>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> </p><br>
+📊 Skill Proficiency (Quick View)<br>
+C             ████████░░ 80%<br>
+C++           ██████░░░░ 60%<br>
+Python        ████████░░ 80%<br>
+Java          ████████░░ 80%<br>
+HTML          ████████░░ 80%<br>
+CSS           ███████░░░ 70%<br>
+PHP           ██████░░░░ 60%<br>
+JavaScript    ████░░░░░░ 40%<br>
+React         █████░░░░░ 50%<br>
 MongoDB       █████░░░░░ 50%
-
-📌 Featured Projects (Recruiter Magnet ⭐)
-
-(Add 2–3 strong projects here – I can help you write them)
-
-🔹 Biometric Payment System
-
-Secure wallet system with authentication
-
-PIN-protected balance view
-
-Mobile recharge & payment features
-
-🔹 Team-Based Web Applications
-
-React frontend + backend integration
-
-Responsive UI and modern design practices
 
 📈 GitHub Performance
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shreyal216&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyal216&theme=radical" width="48%"/> </p>
