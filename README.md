@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%)&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shreyalsinh+Raj+👋;Information+Technology+Student;Aspiring+Full+Stack+Developer;React+%7C+Python+%7C+Java+%7C+MongoDB" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=3F5EFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shreyalsinh+Raj+👋;Information+Technology+Student;Aspiring+Full+Stack+Developer;React+%7C+Python+%7C+Java+%7C+MongoDB" /> </div>
 👨‍💻 About Me<br>
 
 🎓 Bachelor of Information Technology<br>
