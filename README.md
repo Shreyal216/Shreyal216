@@ -10,15 +10,15 @@
 ## 👨‍💻 About Me
 
 
-🎓 Bachelor of Information Technology
-🏫 DRS. Kiran & Pallavi Patel Global University
-🌍 India 
+🎓 Bachelor of Information Technology<br>
+🏫 DRS. Kiran & Pallavi Patel Global University<br>
+🌍 India<br>
 
 
-🚀 Passionate IT undergraduate with a strong foundation in software engineering & web development
-🧠 I love building scalable, elegant, user-centric applications
-🤝 Comfortable in team-based, real-world project environments
-📈 Constantly upgrading my skills & exploring new technologies
+🚀 Passionate IT undergraduate with a strong foundation in software engineering & web development.<br>
+🧠 I love building scalable, elegant, user-centric applications.<br>
+🤝 Comfortable in team-based, real-world project environments.<br>
+📈 Constantly upgrading my skills & exploring new technologies.<br>
 
 🎯 Career Goal:
 
@@ -34,10 +34,13 @@ To become a Full Stack / Software Developer in a growth-driven organization.
 
 
 🛠️ Tech Stack <br>
+
 💻 Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" /> </p>
+
 🌐 Web Development
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" /> </p>
+
 ⚙️ Frameworks, Databases & Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,mongodb,figma,git,github&theme=dark" /> </p>
 
@@ -48,7 +51,7 @@ To become a Full Stack / Software Developer in a growth-driven organization.
 C             █████████░ 80%<br>
 C++           ██████░░░░ 60%<br>
 Python        █████████░ 80%<br>
-Java          █████████░ 80%<br>
+Java          ██████░░░░ 60%<br>
 HTML          █████████░ 80%<br>
 CSS           ████████░░ 70%<br>
 PHP           ██████░░░░ 60%<br>
