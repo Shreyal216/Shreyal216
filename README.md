@@ -25,11 +25,11 @@
 To become a Full Stack / Software Developer in a growth-driven organization.
 
 
-✨ Strong programming fundamentals
-✨ Frontend & backend hands-on experience
-✨ Clean code & real-world workflows
-✨ Team collaboration & problem-solving
-✨ Fast learner with a tech-first mindset
+✨ Strong programming fundamentals<br>
+✨ Frontend & backend hands-on experience<br>
+✨ Clean code & real-world workflows<br>
+✨ Team collaboration & problem-solving<br>
+✨ Fast learner with a tech-first mindset<br>
 
 
 
@@ -67,8 +67,24 @@ MongoDB       █████░░░░░ 50%<br>
 
 
 🤝 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/shreyalsinh-raj2107"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shreyalsinhraj2107@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/shreyalsinhraj"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://twitter.com/Shreyalsinh_Raj"> <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> </p>
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyalsinh-raj2107">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
+  </a>
+  <a href="mailto:shreyalsinhraj2107@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
+  </a>
+  <a href="https://www.instagram.com/shreyalsinhraj">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/>
+  </a>
+  <a href="https://twitter.com/Shreyalsinh_Raj">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"/>
+</div>
 
 ✨ “Code. Learn. Improve. Repeat.” ✨
 
