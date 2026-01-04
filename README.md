@@ -9,10 +9,10 @@
 
 ## 👨‍💻 About Me
 
-Name: Shreyalsinh Raj
-Education: Bachelor of Information Technology
-University: DRS. Kiran & Pallavi Patel Global University
-Location: India 🇮🇳
+
+🎓 Bachelor of Information Technology
+🏫 DRS. Kiran & Pallavi Patel Global University
+🌍 India 
 
 
 🚀 Passionate IT undergraduate with a strong foundation in software engineering & web development
@@ -33,7 +33,7 @@ To become a Full Stack / Software Developer in a growth-driven organization.
 
 
 
-🛠️ Tech Stack 
+🛠️ Tech Stack <br>
 💻 Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" /> </p>
 🌐 Web Development
@@ -45,28 +45,28 @@ To become a Full Stack / Software Developer in a growth-driven organization.
 
 📊 Skill Proficiency 
 
-C             █████████░ 80%
-C++           ██████░░░░ 60%
-Python        █████████░ 80%
-Java          █████████░ 80%
-HTML          █████████░ 80%
-CSS           ████████░░ 70%
-PHP           ██████░░░░ 60%
-JavaScript    █████░░░░░ 40%
-React         █████░░░░░ 50%
-MongoDB       █████░░░░░ 50%
+C             █████████░ 80%<br>
+C++           ██████░░░░ 60%<br>
+Python        █████████░ 80%<br>
+Java          █████████░ 80%<br>
+HTML          █████████░ 80%<br>
+CSS           ████████░░ 70%<br>
+PHP           ██████░░░░ 60%<br>
+JavaScript    █████░░░░░ 40%<br>
+React         █████░░░░░ 50%<br>
+MongoDB       █████░░░░░ 50%<br>
 
 
 
-📈 GitHub Analytics (Live)
+📈 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shreyal216&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyal216&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyal216&theme=tokyo-night&hide_border=true"/> </p>
 
 
 
 🤝 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/shreyalsinh-raj2107"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shreyalsinhraj2107@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/s_h_r_e_y_a_l__s_i_n_h__r_a_j_"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://twitter.com/Shreyalsinh_Raj"> <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/shreyalsinh-raj2107"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shreyalsinhraj2107@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/shreyalsinhraj"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://twitter.com/Shreyalsinh_Raj"> <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> </p>
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 ✨ “Code. Learn. Improve. Repeat.” ✨
 
-</div> `
+</div>
