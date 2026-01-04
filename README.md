@@ -1,39 +1,41 @@
 # Hi 👋🏻 My name is Shreyalsinh Raj
 I am currently pursuing my Bachelor's Degree in Information Technology from DRS. Kiran & Pallavi Patel Global University.
-- 🌍 Currently living in India
-- ✉️ You can contact me at shreyalsinhraj2107@gmail.com
+
+🌍 Currently living in India
+✉️ You can contact me at shreyalsinhraj2107@gmail.com
+
 <h2>Skills</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 <h2>Contact me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shreyalsinh-raj2107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shreyalsinhraj2107@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/s_h_r_e_y_a_l__s_i_n_h__r_a_j_" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40" height="40" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/Shreyalsinh_Raj" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="X (Twitter)"/>
-  </a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shreyalsinh-raj2107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="margin-right: 10px;">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+&nbsp;&nbsp;</a>
+&nbsp;&nbsp;<a href="mailto:shreyalsinhraj2107@gmail.com" target="_blank" style="margin-right: 10px;">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
+&nbsp;&nbsp;</a>
+&nbsp;&nbsp;<a href="https://www.instagram.com/s_h_r_e_y_a_l__s_i_n_h__r_a_j_" target="_blank" style="margin-right: 10px;">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40" height="40" alt="Instagram"/>
+&nbsp;&nbsp;</a>
+&nbsp;&nbsp;<a href="https://twitter.com/Shreyalsinh_Raj" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="X (Twitter)"/>
+&nbsp;&nbsp;</a>
 </p>
 <h2>Badges</h2>
 ### GitHub Stats
-![Shreyal's GitHub Stats](https://github.com/Shreyal216/Shreyal216/blob/main/profile/stats.svg)
+![Shreyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyal216&count_private=true&show_icons=true&theme=radical)
 ### Skills Proficiency
 - ![C](https://img.shields.io/badge/C-80%25-4CAF50?style=flat-square)
 - ![C++](https://img.shields.io/badge/C++-60%25-3F51B5?style=flat-square)
@@ -46,5 +48,4 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
 - ![React](https://img.shields.io/badge/React-50%25-61DAFB?style=flat-square)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-50%25-47A248?style=flat-square)
 ### Streak Stats
-![Current Streak](https://streak-stats.demolab.com?user=Shreyal216&theme=radical)
-
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyal216&theme=radical)
