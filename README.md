@@ -70,16 +70,16 @@ MongoDB       █████░░░░░ 50%<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyalsinh-raj2107">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
-  </a><br>
+  </a>
   <a href="mailto:shreyalsinhraj2107@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
-  </a><br>
+  </a>
   <a href="https://www.instagram.com/shreyalsinhraj">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/>
-  </a><br>
+  </a>
   <a href="https://twitter.com/Shreyalsinh_Raj">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48"/>
-  </a><br>
+  </a>
 </p>
 
 <div align="center">
