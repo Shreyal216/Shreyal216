@@ -69,21 +69,26 @@ MongoDB       █████░░░░░ 50%<br>
 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyalsinh-raj2107">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/>
+  </a><br>
   <a href="mailto:shreyalsinhraj2107@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
+  </a><br>
   <a href="https://www.instagram.com/shreyalsinhraj">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="48"/>
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/>
+  </a><br>
   <a href="https://twitter.com/Shreyalsinh_Raj">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48"/>
+  </a><br>
 </p>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"/>
+</div>
 
 
-✨ “Code. Learn. Improve. Repeat.” ✨
+<div align="center">
+
+ “Code. Learn. Improve. Repeat.”🪽 
 
 </div>
