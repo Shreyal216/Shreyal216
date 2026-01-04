@@ -69,18 +69,19 @@ MongoDB       █████░░░░░ 50%<br>
 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyalsinh-raj2107">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:shreyalsinhraj2107@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/shreyalsinhraj">
-    <img src="https://img.shields.io/badge/Instagram-Creative-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Shreyalsinh_Raj">
-    <img src="https://img.shields.io/badge/X-Tech-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48"/>
   </a>
 </p>
+
 
 
 ✨ “Code. Learn. Improve. Repeat.” ✨
