@@ -1,51 +1,36 @@
-# Hi 👋🏻 My name is Shreyalsinh Raj
-I am currently pursuing my Bachelor's Degree in Information Technology from DRS. Kiran & Pallavi Patel Global University.
+👋 Hi, I'm Shreyalsinh Raj
 
-🌍 Currently living in India
-✉️ You can contact me at shreyalsinhraj2107@gmail.com
+🎓 Bachelor's in Information Technology
+🏫 DRS. Kiran & Pallavi Patel Global University
+🌍 India
+✉️ Email: shreyalsinhraj2107@gmail.com
 
-<h2>Skills</h2>
-<p align="left">
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
-<h2>Contact me</h2>
-<p align="left">
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shreyalsinh-raj2107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="margin-right: 10px;">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
-&nbsp;&nbsp;</a>
-&nbsp;&nbsp;<a href="mailto:shreyalsinhraj2107@gmail.com" target="_blank" style="margin-right: 10px;">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
-&nbsp;&nbsp;</a>
-&nbsp;&nbsp;<a href="https://www.instagram.com/s_h_r_e_y_a_l__s_i_n_h__r_a_j_" target="_blank" style="margin-right: 10px;">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40" height="40" alt="Instagram"/>
-&nbsp;&nbsp;</a>
-&nbsp;&nbsp;<a href="https://twitter.com/Shreyalsinh_Raj" target="_blank">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="X (Twitter)"/>
-&nbsp;&nbsp;</a>
-</p>
-<h2>Badges</h2>
-### GitHub Stats
-![Shreyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyal216&count_private=true&show_icons=true&theme=radical)
-### Skills Proficiency
-- ![C](https://img.shields.io/badge/C-80%25-4CAF50?style=flat-square)
-- ![C++](https://img.shields.io/badge/C++-60%25-3F51B5?style=flat-square)
-- ![Python](https://img.shields.io/badge/Python-80%25-FFD43B?style=flat-square)
-- ![Java](https://img.shields.io/badge/Java-80%25-E74C3C?style=flat-square)
-- ![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=flat-square)
-- ![CSS](https://img.shields.io/badge/CSS-70%25-1572B6?style=flat-square)
-- ![PHP](https://img.shields.io/badge/PHP-60%25-777BB4?style=flat-square)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=flat-square)
-- ![React](https://img.shields.io/badge/React-50%25-61DAFB?style=flat-square)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-50%25-47A248?style=flat-square)
-### Streak Stats
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyal216&theme=radical)
+🚀 About Me
+
+I'm a passionate IT student who enjoys building web applications, exploring new technologies, and collaborating with teams to create meaningful digital solutions. I’m currently sharpening my skills in full-stack development and modern frameworks.
+
+🛠️ Tech Stack
+💻 Programming Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> </p>
+🌐 Web Development
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/> </p>
+⚙️ Frameworks & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> </p>
+📊 Skills Proficiency
+Skill	Level
+C	████████░░ 80%
+C++	██████░░░░ 60%
+Python	████████░░ 80%
+Java	████████░░ 80%
+HTML	████████░░ 80%
+CSS	███████░░░ 70%
+PHP	██████░░░░ 60%
+JavaScript	████░░░░░░ 40%
+React	█████░░░░░ 50%
+MongoDB	█████░░░░░ 50%
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shreyal216&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyal216&theme=radical" width="48%"/> </p>
+🤝 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/shreyalsinh-raj2107" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/> </a> &nbsp;&nbsp; <a href="mailto:shreyalsinhraj2107@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/shreyalsinhraj" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40"/> </a> &nbsp;&nbsp; <a href="https://twitter.com/Shreyalsinh_Raj" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/> </a> </p>
+
+⭐ Always open to learning, collaborating, and building awesome things together!
