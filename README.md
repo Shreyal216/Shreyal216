@@ -42,7 +42,7 @@ To become a Full Stack / Software Developer in a growth-driven organization.
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" /> </p>
 
 ⚙️ Frameworks, Databases & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,mongodb,figma,git,github&theme=dark" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,mongodb,git,github&theme=dark" /> </p>
 
 
 
