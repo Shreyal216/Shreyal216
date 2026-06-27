@@ -29,7 +29,7 @@ Big on clean architecture, scalable systems, and code that future-me won't hate.
 
 ```js
 const dev = {
-  role: 'Full Stack',
+  role: 'Junior Software Devloper',
   status: 'Building',
   passion: ['OpenSource'],
 };
